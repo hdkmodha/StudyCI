@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "1332b44cb9e23258961a749157da1dd37b4c414c0199a6196039d52a0f1f2029"
+build_start_time: [1727419778, 729524000]
+build_end_time: [1727419796, 729322000]
+inputs:
+  "/Volumes/Seagate Portable Drive/Development/Study/StudyCI/StudyCI/ContentView.swift": [1727419211, 896369865]
+  "/Volumes/Seagate Portable Drive/Development/Study/StudyCI/StudyCI/StudyCIApp.swift": [1727419211, 891828574]
+  ? "/Volumes/Seagate Portable Drive/Development/Study/StudyCI/build/StudyCI.build/Release-iphoneos/StudyCI.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1727419777, 931535491]

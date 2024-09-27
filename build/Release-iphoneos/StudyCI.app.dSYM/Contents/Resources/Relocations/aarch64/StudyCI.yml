@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Volumes/Seagate Portable Drive/Development/Study/StudyCI/build/Release-iphoneos/StudyCI.app/StudyCI'
+relocations:     []
+...

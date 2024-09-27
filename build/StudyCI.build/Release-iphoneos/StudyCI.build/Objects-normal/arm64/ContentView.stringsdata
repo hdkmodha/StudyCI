@@ -1,0 +1,16 @@
+{
+  "source": "/Volumes/Seagate Portable Drive/Development/Study/StudyCI/StudyCI/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 16
+        }
+      }
+    ]
+  },
+  "version": 1
+}
